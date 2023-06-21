@@ -17,10 +17,14 @@
 ```
 git clone 
 cd Polymer_cracking
+
 #未使用python免安装包
+
 pip install -r requirements.txt
 python main.py
+
 #使用python免安装包
+
 ./run.bat #直接点击也行
 ```
 
